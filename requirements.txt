@@ -1,1 +1,6 @@
+streamlit
+scikit-learn
+gensim
+transformers
+torch
 
